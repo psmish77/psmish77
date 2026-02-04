@@ -1,13 +1,59 @@
-<h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Piyush Mishra  
 
-- 🔭 I’m currently working on **Sample**
+🎓 Student | 💻 Aspiring Software Developer | 🌐 Web Development Enthusiast  
 
-- 👯 I’m looking to collaborate on **JAVA**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I’m a passionate learner with a strong interest in **software development, web development, and software testing**.  
+I enjoy building logical solutions, learning new technologies, and improving my problem-solving skills through hands-on projects.
+
+I have a technical background in **electronics** and **software development**, and I’m continuously working on strengthening my programming fundamentals and development practices.
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### 💡 Programming Languages  
+- **Java**
+- **Python**
+
+### 🌐 Web Technologies  
+- HTML  
+- CSS  
+- Basic JavaScript  
+
+### 🧪 Other Interests  
+- Software Development  
+- Software Testing  
+- Problem Solving & Logic Building  
+
+---
+
+## 📚 Currently Learning  
+
+- Advanced Java concepts  
+- Backend fundamentals  
+- Web application development  
+- Testing concepts & best practices  
+
+---
+
+## 🎯 Goals  
+
+- Build real-world software and web projects  
+- Improve coding efficiency and clean code practices  
+- Gain experience in software testing and QA  
+- Contribute to open-source projects  
+
+---
+
+## 🤝 Connect With Me  
+
+- 📧 Email: *Add your email here*  
+- 💼 LinkedIn: *Add your LinkedIn profile link*  
+
+---
+
+⭐ *Always curious, always learning.*
