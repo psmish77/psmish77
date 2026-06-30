@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;Cybersecurity+Analyst" alt="Typing SVG" />
 </p>
 
-I am a 3rd-year **Computer Science & Engineering** student passionate about building secure, intelligent, and scalable applications. My experience bridges the gap between software development, artificial intelligence, and cybersecurity analysis.
+I am a 4th-year **Computer Science & Engineering** student passionate about building secure, intelligent, and scalable applications. My experience bridges the gap between software development, artificial intelligence, and cybersecurity analysis.
 
 ---
 
@@ -51,11 +51,11 @@ I am a 3rd-year **Computer Science & Engineering** student passionate about buil
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=psmish77&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=psmish77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psmish77&theme=tokyonight&hide_border=true" alt="Piyush's GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psmish77&theme=tokyonight&hide_border=true" alt="Piyush's Activity Graph" width="49%" />
 </p>
 
 ---
