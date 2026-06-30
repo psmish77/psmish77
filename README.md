@@ -54,8 +54,8 @@ I am a 3rd-year **Computer Science & Engineering** student passionate about buil
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psmish77&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psmish77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=psmish77&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=psmish77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 ---
